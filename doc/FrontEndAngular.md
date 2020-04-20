@@ -142,15 +142,15 @@ C:\PERSONNEL\eclipse-workspace-java-training\Micro-ServicesSpringBootAngularJWT\
 
 copier le repertoire **dist** vers le repertoire cible
 
-![xxxxxx](images/microServiceProduit/deployementAngularInSideApplication.jpg)
 
+![xxxxxx](images/microServiceProduit/deployementApplicationFrontWebWamp.jpg)
 
 ### Deployement dans l'application spring. ( pas préconsier dans une architecture micro-service)
 
 copier le repertoire **dist** d'angular vers le repertoire **resource/static** dans le projet spring.
 
+![xxxxxx](images/microServiceProduit/deployementAngularInSideApplication.jpg)
 
-![xxxxxx](images/microServiceProduit/deployementApplicationFrontWebWamp.jpg)
 
 
 ## test de l'application de puis le server wamp
